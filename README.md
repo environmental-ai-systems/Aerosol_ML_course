@@ -14,7 +14,7 @@ This course is designed for aerosol scientists with little to no machine learnin
 ## 📚 Notebooks
 
 ### 1. XGBoost for Aerosol Classification
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/notebook1_xgboost_aerosol_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/environmental-ai-systems/Aerosol_ML_course/blob/main/notebook1_xgboost_aerosol_classification.ipynb)
 
 **Topics covered:**
 - Data splitting strategies (train/test/validation)
@@ -27,7 +27,7 @@ This course is designed for aerosol scientists with little to no machine learnin
 **Duration:** ~2-3 hours
 
 ### 2. Deep Neural Networks for Aerosol Classification
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/notebook2_dnn_aerosol_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/environmental-ai-systems/Aerosol_ML_course/blob/main/notebook2_dnn_aerosol_classification.ipynb)
 
 **Topics covered:**
 - Neural network architecture design
